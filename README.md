@@ -1,5 +1,5 @@
 # AdventureWorks-Sales-Analysis
-![data-model](https://github.com/ObinnaIheanachor/AdventureWorks-Sales-Analysis/blob/main/Images/19d19866-78a7-4be0-9c98-3cc0b51f6509.gif)
+![data-model](https://github.com/prof2022/AdventureWorks-Sales-Analysis/blob/main/Images/19d19866-78a7-4be0-9c98-3cc0b51f6509.gif)
 
 ### Project Summary
 The objective of this project is to support Adventure Works, a multinational manufacturing company, in their data analysis and visualization efforts.
